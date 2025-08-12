@@ -21,9 +21,3 @@ A responsive and attractive contact form built with **HTML, CSS, and JavaScript*
 - **JavaScript (ES6)** – Validation and user feedback
 - **Regex** – Email format validation
 
----
-
-## 🚀 How to Run
-1. **Download or Clone** this repository:
-   ```bash
-   git clone https://github.com/your-username/contact-form.git
